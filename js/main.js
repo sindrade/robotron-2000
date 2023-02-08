@@ -2,7 +2,7 @@ const subtrair  = document.querySelector("#subtrair");
 const somar     = document.querySelector("#somar");
 
 const controle = document.querySelectorAll("[data-controle]")
-const estatisticas = document.querySelectorAll("[data-estatistica")
+const estatisticas = document.querySelectorAll("[data-estatistica]")
 
 const pecas = {
     "bracos": {
